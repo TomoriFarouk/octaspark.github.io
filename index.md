@@ -492,7 +492,8 @@ collaboration and Problem Solving Skills
             <div class="col s12 l6" data-aos="fade-right" data-aos-delay="200">
                 <!-- Small Title -->
                 <h5 class="p-b-1">Games development.</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa cumque debitis deleniti exercitationem ipsa laborum neque repellendus unde ut voluptates?.</p>
+                <p>
+Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design.</p>
                 <div class="info">
                     <div>
                         <div>
@@ -500,8 +501,8 @@ collaboration and Problem Solving Skills
                         </div>
                     </div>
                     <div>
-                        <h6>Retina Ready</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, nisi!</p>
+                        <h6>Game Developer</h6>
+                        <p>A game developer could be a programmer, a sound designer, an artist, a designer or many other roles available in the industry.</p>
                    </div>
                 </div>
                 <div class="info">
@@ -511,8 +512,8 @@ collaboration and Problem Solving Skills
                         </div>
                     </div>
                     <div>
-                        <h6>User Friendly</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, nisi!</p>
+                        <h6>Game Engine</h6>
+                        <p>Game Engines can make the process of creating a game much easier and enable developers to reuse lots of functionality. It also takes care of rendering for 2D and 3D Graphics, physics and collision detection, sound, scripting and much more.</p>
                   </div>
                 </div>
             </div>
@@ -560,7 +561,7 @@ collaboration and Problem Solving Skills
         <!--Title-->
         <h4 class="reflection-text p-b-2">Screenshots</h4>
         <!-- Description -->
-        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum cupiditate deleniti eaque earum iste itaque quia rerum! Ea excepturi facere incidunt ipsam iure libero nemo, non pariatur rerum sequi voluptatibus.</p>
+        <p class="p-t-1 desc">Over the years technology as being growing fast ,and here are some proof of it growth</p>
         <div class="carousel">
             <div class="carousel-item">
                 <!-- Link to the image to open in full screen when clicked with lity plugin -->
@@ -641,7 +642,7 @@ collaboration and Problem Solving Skills
                     <img class="responsive-img circle" src="images/team/testimonials1.jpg" alt="Image of a John, one member of the team created the app">
                 </div>
                 <!-- Client Testimonial -->
-                <p class="p-b-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus asperiores commodi exercitationem facilis incidunt laudantium nam nulla numquam optio quasi, quis reiciendis suscipit, voluptatum! Error, molestiae, natus? At, officia, unde.</p>
+                <p class="p-b-1">Technology society and life or technology and culture refers to dependency co-dependence, co-influence, and co-production of technology and society upon the other (technology upon culture, and vice versa). This synergistic relationship occurred from the dawn of humankind, with the invention of simple tools and continues into modern technologies such as the printing press and computers. The academic discipline studying the impacts of science, technology, and society, and vice versa is called science and technology studies and octadot as initiated a project(Octaspark) to breach that gap.</p>
                 <!-- Client Name -->
                 <h5>John Doe</h5>
                 <!-- Testimonial Rating, Add a star or half a star -->
@@ -657,7 +658,7 @@ collaboration and Problem Solving Skills
                     <img class="responsive-img circle" src="images/team/testimonials3.jpg" alt="Image of a John, one member of the team created the app">
                 </div>
                 <!-- Client Testimonial -->
-                <p class="p-b-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus asperiores commodi exercitationem facilis incidunt laudantium nam nulla numquam optio quasi, quis reiciendis suscipit, voluptatum! Error, molestiae, natus? At, officia, unde.</p>
+                <p class="p-b-1">From the moment you wake up to the moment you go back to sleep, Technology is everywhere, and I mean everywhere.  Technology is not only rapidly changing, but it’s changing so fast that most of us don’t even recognize these changes. We take most of it for granted, and consider it the norm. Many people have yet to realize just how rapid and profound the current digital revolution is, or how quickly it’s breaking down old institutions ,octadot as a company has help in making millions of people understand that</p>
                 <!-- Client Name -->
                 <h5>John Doe</h5>
                 <!-- Testimonial Rating, Add a star or half a star -->
