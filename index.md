@@ -678,7 +678,7 @@ Game Development is the art of creating games and describes the design, developm
         <!--Title-->
         <h4 class="reflection-text p-b-2">Behind The Story</h4>
         <!-- Description -->
-        <p class="p-t-1 desc">A transparent view into the people behind the company</p>
+        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci amet corporis, cupiditate dolores ipsa ipsam maiores molestias nesciunt, nihil odio quae, quo ratione soluta.</p>
         <!-- Owl Team Slider -->
         <div class="p-t-2 grid center-align owl-carousel owl-teams">
             <!-- Single Team Container -->
@@ -908,7 +908,7 @@ Game Development is the art of creating games and describes the design, developm
     <div class="container">
         <!--Title-->
         <h4 class="reflection-text reflection-text-white p-b-2">Watch Video</h4
-        <p class="p-t-1 desc">Let’s see how technology has changed the life buisnesses and that of the students:</p>
+        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem expedita ipsum, nulla quia saepe vel?</p>
         <a class="icon-button" href="https://www.youtube.com/watch?v=tpWFwnj9WKc" data-lity>
             <i class="fa fa-play-circle fa-4x"></i>
         </a>
@@ -923,7 +923,7 @@ Game Development is the art of creating games and describes the design, developm
         <!--Title-->
         <h4 class="reflection-text reflection-text-white p-b-2">Statistics</h4>
         <!-- Description -->
-        <p class="p-t-1 desc">Even with the passage of time, technology is progressing as well. There is nothing to deny the fact that technology has made the lives of common people a lot more comfortable than what it was earlier. Its plus points are now evident in the domain of education as well. </p>
+        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci amet corporis, cupiditate dolores ipsa ipsam maiores molestias nesciunt, nihil odio quae, quo ratione soluta.</p>
         <div class="row p-t-2">
             <div class="col s12 m6 l3 p-tb-1">
                 <i class="fa fa-heart fa-3x" aria-hidden="true"></i>
@@ -957,7 +957,7 @@ Game Development is the art of creating games and describes the design, developm
         <!--Title-->
         <h4 class="reflection-text p-b-2">FAQ<small>s</small></h4>
         <!-- Description -->
-        <p class="p-t-1 desc">FREQUENTLY ASKED QUESTIONS</p>
+        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit in odit tempora voluptates? Consequuntur deleniti deserunt impedit, inventore iste numquam optio porro possimus sunt voluptates!</p>
         <div class="row p-t-3 faq-main">
             <div class="col s6 push-s4 m3 push-m2 l4 push-l1 faq-image" data-aos="fade-right" data-aos-delay="200">
                 <!-- FAQ Image -->
@@ -972,55 +972,55 @@ Game Development is the art of creating games and describes the design, developm
                         <!-- Question -->
                         <div class="collapsible-header active gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Why is this site so awesome?</span>
+                            <span>Why this app is so awesome?</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span></span>
+                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi nam quidem suscipit. Delectus earum nemo nihil. Error nobis possimus rerum!</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>How can we make further enquires?</span>
+                            <span>Can I get a discount by inviting friends?</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>Contact us on Gmail using Octadottech@gmail.com or by calling +234 817 420 9375</span>
+                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi assumenda ea eligendi nobis, sint vel! Consequuntur explicabo facilis nulla unde.</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>How long is the training </span>
+                            <span>Lorem ipsum sit amet, adipisicing.</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>It depends on various circumstances</span>
+                            <span>Lorem ipsum dolor, consectetur adipisicing elit. Nemo, perspiciatis voluptate! Dolorem ea explicabo id perspiciatis similique. Eligendi, officia, quam?</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Can Indidvidual training be done</span>
+                            <span>et labore laboriosam molestias, ligendi.</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>For Information on that please contact this number +234 817 420 9375</span>
+                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi est et labore laboriosam molestias officia saepe sed vel veniam veritatis.</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Can schools from different state apart from the where the HQ is located apply</span>
+                            <span>Lorem ipsum dolor sit amet, consectetur.</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>for more information contact this number +234 817 420 9375</span>
+                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio doloremque dolores eveniet fuga, itaque laboriosam quam sequi. Deleniti, fugiat ipsam.</span>
                         </div>
                     </li>
                 </ul>
