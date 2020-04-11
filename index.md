@@ -22,7 +22,6 @@
     <meta name="twitter:app:id:ipad" content="">
     <meta name="twitter:app:name:googleplay" content="">
     <meta name="twitter:app:id:googleplay" content="">
-    <meta
     <!-- Favicon -->
     <link rel="icon" href="images/icon.png">
     <!-- Plugins CSS -->
@@ -48,6 +47,7 @@
 <!-- End PreLoader Section-->
 
 <!-- Start Color Switcher Section-->
+
 <section id="colors-switcher">
     <h2>
         Colors & Gradients
