@@ -1,7 +1,5 @@
 
 <html lang="en">
-
-
 <!-- Mirrored from apperle.dawoud.org/apperle/index-parallax.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Mar 2020 07:49:39 GMT -->
 <head>
     <!--Meta tags-->
@@ -36,17 +34,11 @@
   <script async src='../../www.google-analytics.com/analytics.js'></script>
  <!-- End Google Analytics -->
 </head>
-
 <body>
-
 <!-- Start PreLoader Section-->
 <div class="pre-loadergradient-color">
     <div class="loader"></div>
 </div>
-<!-- End PreLoader Section-->
-
-<!-- Start Color Switcher Section-->
-
 <section id="colors-switcher">
     <h2>
         Colors & Gradients
@@ -85,9 +77,6 @@
         </ul>
     </div>
 </section>
-<!-- End Color Switcher Section -->
-
-<!-- Start Nav Section -->
 <nav id="main-nav" class="nav-down">
     <div id="nav-color" class="gradient-color"></div>
     <div class="nav-wrapper">
@@ -254,7 +243,6 @@
             </li>
         </ul>
     </div>
-
 </nav>
 <!-- End Nav Section-->
 <!-- Start Header Section-->
@@ -278,7 +266,6 @@
             </div>
         </div>
     </div>
-
 </header>
 <section id="about-us" class="main-sectioncenter-align" data-scroll-index="1">
     <div class="container">
@@ -312,10 +299,7 @@
             </div>
         </div>
     </div>
-
 </section>
-<!-- End About Section-->
-<!-- Start Features Section-->
 <section id="features" data-scroll-index="3" class="main-sectioncenter-align">
     <div class="gradient-color overlay"></div>
     <div class="container">
@@ -405,23 +389,14 @@
             </div>
         </div>
     </div>
-
 </section>
-<!-- End Features Section-->
-
-<!-- Start Showcase Section-->
 <section id="showcase" class="main-section">
-    <!-- Overlay Color -->
     <div class="gradient-color overlay"></div>
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text p-b-2">Showcase</h4>
-        <!-- Description -->
         <p class="p-t-1 desc">ProjectOcstaSpark is an Edtech Initiative to "Spark" students interest in the tech ecosystem and to provide them with skills that they will need to thrive in this Digital Age</p>
         <div class="row p-tb-3">
-            <!-- Single Show Case -->
             <div class="col s12 l6" data-aos="fade-right" data-aos-delay="100">
-                <!-- Small Title -->
                 <h5 class="p-b-1">Robotics.</h5>
                 <p>The LEGO MINDSTORM Education EV3 Core Set is a hands-on cross-curricular STEM solution that engages students by providing the resources to design, build and program their creations while helping them to develop </p>
                 <div class="info">
@@ -449,14 +424,11 @@ collaboration and Problem Solving Skills
                 </div>
             </div>
             <div class="col s12 l6 center-align" data-aos="fade-left" data-aos-delay="200">
-                <!--Images-->
                 <img src="images/iphone-mock/blue/3-1.jpg" alt="">
             </div>
         </div>
         <div class="row p-tb-3 opposite-container">
-            <!-- Single Show Case -->
             <div class="col s12 l6" data-aos="fade-left" data-aos-delay="200">
-                <!-- Small Title -->
                 <h5 class="p-b-1">Animation.</h5>
                 <p> Plotagon Education is a piece of 3D development software that makes it easy for students to create animated movies, make characters, and write plots about any subject matter. Students can create a movie re-enacting a scene from a time of history, showing how to solve a math problem or with two characters debating a topic.</p>
                 <div class="info">
@@ -481,14 +453,11 @@ collaboration and Problem Solving Skills
                 </div>
             </div>
             <div class="col s12 l6 opposite center-align" data-aos="fade-right" data-aos-delay="100">
-                <!--Images-->
                 <img src="images/iphone-mock/blue/1-2.jpg" alt="">        
            </div>
         </div>
         <div class="rowp-tb-3">
-            <!-- Single Show Case -->
             <div class="col s12 l6" data-aos="fade-right" data-aos-delay="200">
-                <!-- Small Title -->
                 <h5 class="p-b-1">Games development.</h5>
                 <p>
 Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design.</p>
@@ -516,88 +485,63 @@ Game Development is the art of creating games and describes the design, developm
                 </div>
             </div>
             <div class="col s12 l6 center-align" data-aos="fade-left" data-aos-delay="100">
-                <!--Images-->
                 <img src="images/iphone-mock/blue/3-3.jpeg" alt="">
             </div>
         </div>
     </div>
-
 </section>
-<!-- End Showcase Section-->
-<!-- Start Subscribe Section-->
 <section id="subscribe" class="main-sectioncenter-align">
     <div class="container row" data-aos="fade-up" data-aos-delay="100">
         <div class="subscribe-container">
             <div class="col s12 l4">
                 <h4 class="title p-b-2">Subscribe</h4>
             </div>
-            <!-- Subscription Form -->
             <form id="subscribe-form" name="subscribe-form" class="subscribe-input input-field col s12 l8">
-                <!-- Email Field -->
                 <input name="subscribe-email" id="subscribe-email" type="email" class="validate" >
                 <label data-error="Invalid Email"  for="subscribe-email">Email</label>
-                <!-- Submit Button -->
                 <button id="subscribe-submit" class="gradient-color waves-effect waves-light" type="submit">
                     <i class="fa fa-paper-plane first"></i>
                     <i class="fa fa-paper-plane second"></i>
                 </button>
-                <!-- ! Anti-spam field ! Invisible for users, it will trick most bots to fill it and prevent the email from being sent to you -->
                 <div class="input-field col s12 hidden">
                     <input type="text" id="subscribe-check-spam" placeholder="Leave field empty" name="check-spam">
                 </div>
            </form>
         </div>
-        <!-- Alert Message -->
         <div class="col s12 alert-message p-t-2" id="subscribe-alert-message"></div>
     </div>
-
 </section>
-<!-- End Subscribe Section-->
-<!-- Start Screenshot Section-->
 <section id="screenshot" data-scroll-index="2" class="main-sectioncenter-align">
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text p-b-2">Screenshots</h4>
-        <!-- Description -->
         <p class="p-t-1 desc">Over the years technology as being growing fast ,and here are some proof of it growth</p>
         <div class="carousel">
             <div class="carousel-item">
-                <!-- Link to the image to open in full screen when clicked with lity plugin -->
                 <a href="images/iphone-mock/blue/1-5.jpg" data-lity>
-                    <!-- Screenshot Image -->
                     <img class="responsive-img" src="images/iphone-mock/blue/1-5.jpg" alt="mobile mockup image">
                 </a>
             </div>
             <div class="carousel-item">
-                <!-- Link to the image to open in full screen when clicked with lity plugin -->
                 <a href="images/iphone-mock/blue/1-3.png" data-lity>
-                    <!-- Screenshot Image -->
                    <img class="responsive-img" src="images/iphone-mock/blue/1-1.jpg" alt="mobile mockup image">
                 </a>
             </div>
             <div class="carousel-item">
-                <!-- Link to the image to open in full screen when clicked with lity plugin -->
                 <a href="images/iphone-mock/blue/1-2.png" data-lity>
-                    <!-- Screenshot Image -->
                     <img class="responsive-img" src="images/iphone-mock/blue/1-3.jpg" alt="mobile mockup image">
                 </a>
             </div>
             <div class="carousel-item">
-                <!-- Link to the image to open in full screen when clicked with lity plugin -->
                 <a href="images/iphone-mock/blue/1-3.png" data-lity>
-                    <!-- Screenshot Image -->
                     <img class="responsive-img" src="images/iphone-mock/blue/1-6.jpeg" alt="mobile mockup image">
                 </a>
             </div>
             <div class="carousel-item">
-                <!-- Link to the image to open in full screen when clicked with lity plugin -->
                 <a href="images/iphone-mock/blue/1-1.png" data-lity>
-                    <!-- Screenshot Image -->
                     <img class="responsive-img" src="images/iphone-mock/blue/1-4.jpeg" alt="mobile mockup image">
                 </a>
             </div>
         </div>
-        <!-- Navigation arrows to be hidden on small and medium screens -->
         <div class="navigation" id="screenshot-navigation">
             <div class="nav-prev" id="screenshot-prev">
                 <i class="fa fa-angle-left"></i>
@@ -607,25 +551,17 @@ Game Development is the art of creating games and describes the design, developm
             </div>
         </div>
     </div>
-
 </section>
-<!-- End Screenshot Section-->
-<!-- Start Testimonials Section-->
 <section id="testimonials" class="main-sectioncenter-align">
-    <!-- Overlay Color -->
     <div class="gradient-color overlay"></div>
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text reflection-text-white p-b-2">Testimonials</h4>
         <div class="owl-carousel owl-testimonials">
             <div>
-                <!-- Client Image -->
                 <div>
-                    <img class="responsive-img circle" src="images/team/team1.jpg" alt="Image of a John, one member of the team created the app">
+                    <img class="responsive-img circle" src="images/team/teamt.jpg" alt="Image of a John, one member of the team created the app">
                 </div>
-                <!-- Client Testimonial -->
                 <p class="p-b-1">Technology is developing very rapidly in the 21st century. It has become an important part of our lives. It allows us to share information that we would not be able to access on our own. Recently, scientists have made mankind’s greatest innovation. Nowadays, everyone uses technology on a daily basis for education, communication, health purpose, job creation or business growth.</p>
-                <!-- Client Name -->
                 <h5>John Doe</h5>
                 <!-- Testimonial Rating, Add a star or half a star -->
                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -635,15 +571,11 @@ Game Development is the art of creating games and describes the design, developm
                 <i class="fa fa-star" aria-hidden="true"></i>
             </div>
             <div>
-                <!-- Client Image -->
                 <div>
                     <img class="responsive-img circle" src="images/team/testimonials1.jpg" alt="Image of a John, one member of the team created the app">
                 </div>
-                <!-- Client Testimonial -->
                 <p class="p-b-1">Technology society and life or technology and culture refers to dependency co-dependence, co-influence, and co-production of technology and society upon the other (technology upon culture, and vice versa). This synergistic relationship occurred from the dawn of humankind, with the invention of simple tools and continues into modern technologies such as the printing press and computers. The academic discipline studying the impacts of science, technology, and society, and vice versa is called science and technology studies and octadot as initiated a project(Octaspark) to breach that gap.</p>
-                <!-- Client Name -->
                 <h5>John Doe</h5>
-                <!-- Testimonial Rating, Add a star or half a star -->
                 <i class="fa fa-star" aria-hidden="true"></i>
                 <i class="fa fa-star" aria-hidden="true"></i>
                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -651,15 +583,10 @@ Game Development is the art of creating games and describes the design, developm
                 <i class="fa fa-star-half" aria-hidden="true"></i>
             </div>
             <div>
-                <!-- Client Image -->
                 <div>
                     <img class="responsive-img circle" src="images/team/testimonials3.jpg" alt="Image of a John, one member of the team created the app">
-                </div>
-                <!-- Client Testimonial -->
                 <p class="p-b-1">From the moment you wake up to the moment you go back to sleep, Technology is everywhere, and I mean everywhere.  Technology is not only rapidly changing, but it’s changing so fast that most of us don’t even recognize these changes. We take most of it for granted, and consider it the norm. Many people have yet to realize just how rapid and profound the current digital revolution is, or how quickly it’s breaking down old institutions ,octadot as a company has help in making millions of people understand that</p>
-                <!-- Client Name -->
                 <h5>John Doe</h5>
-                <!-- Testimonial Rating, Add a star or half a star -->
                 <i class="fa fa-star" aria-hidden="true"></i>
                 <i class="fa fa-star" aria-hidden="true"></i>
                 <i class="fa fa-star" aria-hidden="true"></i>
@@ -668,38 +595,28 @@ Game Development is the art of creating games and describes the design, developm
             </div>
         </div>
     </div>
-</section>
-<!-- End Testimonials Section-->
-<!-- Start Team Section-->
+    </div>
+    </section>
 <section id="team" class="main-sectioncenter-align">
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text p-b-2">Behind The Story</h4>
-        <!-- Description -->
         <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci amet corporis, cupiditate dolores ipsa ipsam maiores molestias nesciunt, nihil odio quae, quo ratione soluta.</p>
-        <!-- Owl Team Slider -->
         <div class="p-t-2 grid center-align owl-carousel owl-teams">
             <!-- Single Team Container -->
             <div class="team-member m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img class="responsive-img" src="images/team/team1.jpg" alt="news image">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network-->
                         <p class="icons">
-                           <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                             </a>
@@ -707,35 +624,26 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Inioluwa Adewuyi</h5>
-                    </a>
-                    <!-- Team Member Job -->
                     <h6>Cheif Executive Directo(CEO)</h6>
+                    </a>
                 </div>
             </div>
-            <!-- Single Team Container -->
             <div class="team-member m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img src="images/team/team2.jpg" alt="img25">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network -->
                         <p class="icons">
-                            <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                             </a>
@@ -743,35 +651,26 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Onasanya Omobolanle</h5>
                     </a>
-                    <!-- Team Member Job -->
                     <h6>Human Resources Manager</h6>
                 </div>
             </div>
-            <!-- Single Team Container -->
             <div class="team-member  m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img src="images/team/team3.jpg" alt="img25">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network -->
                         <p class="icons">
-                            <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                             </a>
@@ -779,35 +678,26 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Obileye Barakah</h5>
                     </a>
-                    <!-- Team Member Job -->
                     <h6>Optimization Director</h6>
                 </div>
             </div>
-            <!-- Single Team Container -->
             <div class="team-member m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img src="images/team/team4.jpg" alt="img25">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network -->
                         <p class="icons">
-                            <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                           </a>
@@ -815,34 +705,26 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Tomori Farouk</h5>
                     </a>
-                    <!-- Team Member Job -->
                     <h6>Operation Director</h6>
                 </div>
             </div>
 <div class="team-member m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img src="images/team/team5.jpeg" alt="img25">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network -->
                         <p class="icons">
-                            <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                             </a>
@@ -850,34 +732,26 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Aromoye Ibrahim</h5>
                     </a>
-                    <!-- Team Member Job -->
                     <h6>Projector Director</h6>
                 </div>
             </div>
 <div class="team-member m-tb-2 z-depth-2 hoverable">
                 <figure>
-                    <!-- Team Image -->
                     <img src="images/team/team6.jpg" alt="img25">
                     <figcaption class="gradient-color">
-                        <!-- Team Social Network -->
                         <p class="icons">
-                            <!--Facebook Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light"></i>
                             </a>
-                            <!--Twitter Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light"></i>
                             </a>
-                            <!--Linkedin Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-linkedin waves-effect waves-light"></i>
                             </a>
-                            <!--Pinterest Link and Icon-->
                             <a href="#">
                                 <i class="fa fa-pinterest waves-effect waves-light"></i>
                             </a>
@@ -885,19 +759,15 @@ Game Development is the art of creating games and describes the design, developm
                     </figcaption>
                 </figure>
                 <div class="name p-b-1">
-                    <!-- Team Member Name and link to his page -->
                     <a href="#">
                         <h5 class="team-name gradient-color waves-effect waves-light">Taiwo Oluwaseun</h5>
                     </a>
-                    <!-- Team Member Job -->
                     <h6>Logistics Director</h6>
                 </div>
             </div>
         </div>
     </div>     
 </section>
-<!-- End Team Section-->
-<!-- Start Download Section-->
 <section id="video" class="main-sectioncenter-align">
     <div class="gradient-color overlay"></div>
     <div class="container">
@@ -909,15 +779,10 @@ Game Development is the art of creating games and describes the design, developm
         </a>
     </div>
 </section>
-<!-- End Video Section-->
-<!-- Start Statistics Section-->
 <section id="statistics" class="main-sectioncenter-align" style="background:url('images/background/header-bg-10.jpg')bottomfixed;">
-    <!-- Color Overylay -->
     <div class="gradient-color overlay"></div>
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text reflection-text-white p-b-2">Statistics</h4>
-        <!-- Description -->
         <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci amet corporis, cupiditate dolores ipsa ipsam maiores molestias nesciunt, nihil odio quae, quo ratione soluta.</p>
         <div class="row p-t-2">
             <div class="col s12 m6 l3 p-tb-1">
@@ -942,20 +807,13 @@ Game Development is the art of creating games and describes the design, developm
             </div>
         </div>
     </div>
-
 </section>
-<!-- End Statistics Section-->
-
-<!-- Start FAQs Section-->
 <section id="faq" data-scroll-index="6" class="main-section">
     <div class="container">
-        <!--Title-->
         <h4 class="reflection-text p-b-2">FAQ<small>s</small></h4>
-        <!-- Description -->
         <p class="p-t-1 desc">Frequently Asked Questions</p>
         <div class="row p-t-3 faq-main">
             <div class="col s6 push-s4 m3 push-m2 l4 push-l1 faq-image" data-aos="fade-right" data-aos-delay="200">
-                <!-- FAQ Image -->
                 <div>
                     <img class="responsive-img" src="images/iphone-mock/blue/1-2.png" alt="">
                     <img class="responsive-img absolute-image" src="images/iphone-mock/blue/1-4.png" alt="">
@@ -964,56 +822,46 @@ Game Development is the art of creating games and describes the design, developm
             <div class="col s12 m6 push-m2 l7 push-l1 collapsible-container" data-aos="fade-left" data-aos-delay="100">
                 <ul class="collapsible popout" data-collapsible="accordion">
                     <li>
-                        <!-- Question -->
                         <div class="collapsible-header active gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
                             <span>Why this app is so awesome?</span>
                         </div>
-                        <!-- Answer -->
                         <div class="collapsible-body">
                             <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi nam quidem suscipit. Delectus earum nemo nihil. Error nobis possimus rerum!</span>
                         </div>
                     </li>
                     <li>
-                        <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
                             <span>How long is the Training for </span>
                         </div>
-                        <!-- Answer -->
                         <div class="collapsible-body">
                             <span>For more information contact our customer service team</span>
                         </div>
                     </li>
                     <li>
-                        <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
                             <span>Does the program cut across the whole of Africa</span>
                         </div>
-                        <!-- Answer -->
                         <div class="collapsible-body">
                             <span>For more information contact our customer service team</span>
                         </div>
                     </li>
                     <li>
-                        <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
                             <span>How to Apply for the training</span>
                         </div>
-                        <!-- Answer -->
                         <div class="collapsible-body">
                             <span>For more information contact our customer service team.</span>
                         </div>
                     </li>
                     <li>
-                        <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
                             <span>The payment plan for the training.</span>
                         </div>
-                        <!-- Answer -->
                         <div class="collapsible-body">
                             <span>For more information contact our customer service team</span>
                         </div>
@@ -1024,85 +872,64 @@ Game Development is the art of creating games and describes the design, developm
     </div>
 
 </section>
-<!-- End FAQs Section-->
-
-<!-- Start Map Section-->
 <div id="map-section" data-scroll-index="8">
     <div id="map"></div>
 </div>
-<!-- End Map Section-->
-<!-- Start Footer Section-->
 <section id="footer" class="main-sectioncenter-aligngradient-color">
     <div class="footer-main">
         <div class="main-section">
             <div class="container">
-                <!--Title-->
                 <h4 class="reflection-text p-b-2">Get In Touch</h4>
                 <div class="contact-container">
-                    <!-- Contact Form -->
                     <form id="contact-form" name="contact-form" method="POST" data-name="Contact Form">
                         <div class="row">
-                            <!-- Name Field -->
                             <div class="input-field col s12">
                                 <i class="fa fa-user-o prefix" aria-hidden="true"></i>
                                 <input id="contact-name" type="text" class="validate" name="first_name" required>
                                 <label for="contact-name">Name*</label>
                             </div>
-                            <!-- Email Field -->
                             <div class="input-field col s12 m-t-1">
                                 <i class="fa fa-paper-plane-o prefix" aria-hidden="true"></i>
                                 <input id="contact-email" type="email" class="validate" name="email" required>
                                 <label data-error="Invalid Email"  for="contact-email">Email*</label>
                             </div>
-                            <!-- Message Field -->
                             <div class="input-field col s12 m-t-1">
                                 <i class="fa fa-envelope-o prefix" aria-hidden="true"></i>
                                 <textarea id="contact-message" class="materialize-textarea validate" minlength="20" name="message" required></textarea>
                                 <label for="contact-message" data-error="Minimum Length is 20 Characters" >Message*</label>
                             </div>
-                            <!-- Form Alert Message -->
                             <div class="col s12 alert-message" id="contact-alert-message"></div>
-                            <!-- Submit Button -->
                             <div class="col s12">
                                 <button id="contact-submit" class="gradient-color waves-effect waves-light" type="submit">Send Message</button>
                             </div>
-                            <!-- ! Anti-spam field ! Invisible for users, it will trick most bots to fill it and prevent the email from being sent to you -->
                             <div class="input-field col s12 hidden">
                                 <input type="text" id="contact-check-spam" placeholder="Leave field empty" name="check-spam">
                             </div>
                         </div>
                     </form>
                     <div class="address">
-                        <!-- Your Address -->
                         <p class="p-b-1">
                             <i class="address-icon fa fa-map-marker"></i>
                             <span>15 Bath Rd, Heathrow, Longford, Hounslow TW6 2AB, UK</span>
                         </p>
-                        <!-- Your Phone Number -->
                         <p class="p-b-1">
                             <i class="address-icon fa fa-phone"></i>
                             <a href="tel:+441711278528"> +234 817 420 9375</a>
                         </p>
-                        <!-- Your Email -->
                         <p class="p-b-1">
                             <i class="address-icon fa fa-paper-plane" aria-hidden="true"></i>
                             <a href="mailto:perla.app@example.com">octadottech@gmail.com</a>
                         </p>
-                        <!-- Your Social Network Links-->
                         <div class="social-icons p-b-1">
-                            <!-- Facebook -->
                             <a href="#">
                                 <i class="fa fa-facebook waves-effect waves-light  blue"></i>
                             </a>
-                            <!-- Twitter -->
                             <a href="#">
                                 <i class="fa fa-twitter waves-effect waves-light  light-blue lighten-2"></i>
                             </a>
-                            <!-- Instagram -->
                             <a href="#">
                                 <i class="fa fa-instagram waves-effect waves-light  amber darken-3"></i>
                             </a>
-                            <!-- Youtube -->
                             <a href="#">
                                 <i class="fa fa-youtube waves-effect waves-light  red"></i>
                             </a>
@@ -1111,24 +938,18 @@ Game Development is the art of creating games and describes the design, developm
                 </div>
             </div>
         </div>
-        <!-- Footer Area -->
         <div class="footer-content p-t-3 left-align">
             <div class="container">
                 <div class="row">
                     <div class="about col s12 m6 l3">
                         <h5 class="p-b-2">About Us</h5>
-                        <!-- Your Logo -->
                         <img class="responsive-img logo" src="images/logo.svg" alt="logo image">
                         <br>
-                        <!-- Your Title -->
                         <p class="title-link">
                             <span>O</span><span>C</span><span>T</span><span>A</span><span>D</span><span>O</span><span>T</span>
                         </p>
-                        <!-- Your Info -->
                         <p>Doing More With Tech</p>
                     </div>
-                    <!-- News -->               
-                    <!-- Tags -->
                     <div class="tags col s12 m6 l3">
                         <h5 class="p-b-2">Tags</h5>
                         <a href="#" class="chip waves-effect">App</a>
@@ -1147,9 +968,7 @@ Game Development is the art of creating games and describes the design, developm
                         <a href="#" class="chip waves-effect">Android</a>
                         <a href="#" class="chip waves-effect">Watch</a>
                     </div>
-                    <!-- Instagram Feed -->
                     <div class="insta col s12 m6 l3">
-                        <!-- Edit in Main.js -->
                         <h5 class="p-b-2">Instagram Feed</h5>
                        <ul class="instagram">
                              <li><img class="responsive-img waves-effect" src="images/news/news1.jpg" alt="news image"></li>
@@ -1161,54 +980,32 @@ Game Development is the art of creating games and describes the design, developm
             </div>
         </div>
     </div>
-
 </section>
-<!-- End Footer Section-->
-<!-- Start Copy Rights Section-->
 <div id="copy-rights" class="cols12">
     <div class="container">
-        <!-- Your Copy Right -->
         <p>Copyright &copy; 2020Octadot <a href="">Octadot</a></p>
-        <!-- Your Social Network Links-->
         <div class="social-icons">
-            <!-- Facebook -->
             <a href="#">
                 <i class="fa fa-facebook shadow-button waves-effect waves-light waves-circle blue"></i>
             </a>
-            <!-- Twitter -->
             <a href="#">
                 <i class="fa fa-twitter shadow-button waves-effect waves-light waves-circle light-blue lighten-2"></i>
             </a>
-            <!-- Instagram -->
             <a href="#">
                 <i class="fa fa-instagram shadow-button waves-effect waves-light waves-circle amber darken-3"></i>
             </a>
-            <!-- Youtube -->
             <a href="#">
                 <i class="fa fa-youtube shadow-button waves-effect waves-light waves-circle red"></i>
             </a>
         </div>
     </div>
 </div>
-<!-- End Copy Rights Section-->
-
-
-<!-- jQuery - and plugins JS files -->
 <script src='js/plugins.js' type="text/javascript"></script>
-<!-- Background Paralalx JS -->
 <script src='js/animated/parallax.min.js' type="text/javascript"></script>
 <script src='js/animated/animated-main.js' type="text/javascript"></script>
-<!-- Contact Form JS -->
 <script src='js/min/contact-form-min.js' type="text/javascript"></script>
-<!-- Google Maps JS -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbWITJhiYWwcN7gobIdTe2RHGUWDmZKgw&amp;sensor=false"></script>
 <script src="js/min/maps-min.js"></script>
-<!-- Our Main JS -->
 <script src='js/min/main-min.js' type="text/javascript"></script>
-
-
 </body>
-
-
-<!-- Mirrored from apperle.dawoud.org/apperle/index-parallax.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Mar 2020 07:50:27 GMT -->
 </html>
