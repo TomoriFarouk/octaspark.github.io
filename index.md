@@ -31,7 +31,6 @@
     <link rel="stylesheet" type="text/css" href="css/color/style7.css" id="colors">
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js" type="text/javascript"></script>
-    <![endif]-->
         <!-- Google Analytics -->
 <script>         window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;         ga('create', 'UA-101768876-2', 'auto');         ga('send', 'pageview');     </script>
   <script async src='../../www.google-analytics.com/analytics.js'></script>
@@ -41,7 +40,7 @@
 <body>
 
 <!-- Start PreLoader Section-->
-<div class="pre-loader gradient-color">
+<div class="pre-loadergradient-color">
     <div class="loader"></div>
 </div>
 <!-- End PreLoader Section-->
@@ -341,7 +340,7 @@
                     <a class="hoverable feature-link same-height" data-owl-item="1">
                         <!-- Title -->
                         <div>
-                            <h5>Game development<h5>
+                            <h5>Game development</h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, nisi!</p>
                         </div>
                         <!-- Icon -->
@@ -896,10 +895,7 @@ Game Development is the art of creating games and describes the design, developm
                 </div>
             </div>
         </div>
-    </div>
-        </div>
-    </div>
-       
+    </div>     
 </section>
 <!-- End Team Section-->
 <!-- Start Download Section-->
@@ -957,7 +953,7 @@ Game Development is the art of creating games and describes the design, developm
         <!--Title-->
         <h4 class="reflection-text p-b-2">FAQ<small>s</small></h4>
         <!-- Description -->
-        <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit in odit tempora voluptates? Consequuntur deleniti deserunt impedit, inventore iste numquam optio porro possimus sunt voluptates!</p>
+        <p class="p-t-1 desc">Frequently Asked Questions</p>
         <div class="row p-t-3 faq-main">
             <div class="col s6 push-s4 m3 push-m2 l4 push-l1 faq-image" data-aos="fade-right" data-aos-delay="200">
                 <!-- FAQ Image -->
@@ -983,44 +979,44 @@ Game Development is the art of creating games and describes the design, developm
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Can I get a discount by inviting friends?</span>
+                            <span>How long is the Training for </span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi assumenda ea eligendi nobis, sint vel! Consequuntur explicabo facilis nulla unde.</span>
+                            <span>For more information contact our customer service team</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Lorem ipsum sit amet, adipisicing.</span>
+                            <span>Does the program cut across the whole of Africa</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>Lorem ipsum dolor, consectetur adipisicing elit. Nemo, perspiciatis voluptate! Dolorem ea explicabo id perspiciatis similique. Eligendi, officia, quam?</span>
+                            <span>For more information contact our customer service team</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>et labore laboriosam molestias, ligendi.</span>
+                            <span>How to Apply for the training</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi est et labore laboriosam molestias officia saepe sed vel veniam veritatis.</span>
+                            <span>For more information contact our customer service team.</span>
                         </div>
                     </li>
                     <li>
                         <!-- Question -->
                         <div class="collapsible-header gradient-color waves-effect waves-light">
                             <i class="fa fa-comment" aria-hidden="true"></i>
-                            <span>Lorem ipsum dolor sit amet, consectetur.</span>
+                            <span>The payment plan for the training.</span>
                         </div>
                         <!-- Answer -->
                         <div class="collapsible-body">
-                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio doloremque dolores eveniet fuga, itaque laboriosam quam sequi. Deleniti, fugiat ipsam.</span>
+                            <span>For more information contact our customer service team</span>
                         </div>
                     </li>
                 </ul>
