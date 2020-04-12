@@ -467,7 +467,6 @@ collaboration and Problem Solving Skills
                     </div>
                     <div>
                         <h6>It helps in building creative ability</h6>
-                        <p>                                      </p>
                     </div>
                 </div>
                 <div class="info">
@@ -903,7 +902,7 @@ Game Development is the art of creating games and describes the design, developm
     <div class="gradient-color overlay"></div>
     <div class="container">
         <!--Title-->
-        <h4 class="reflection-text reflection-text-white p-b-2">Watch Video</h4
+        <h4 class="reflection-text reflection-text-white p-b-2">Watch Video</h4>
         <p class="p-t-1 desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem expedita ipsum, nulla quia saepe vel?</p>
         <a class="icon-button" href="https://www.youtube.com/watch?v=tpWFwnj9WKc" data-lity>
             <i class="fa fa-play-circle fa-4x"></i>
