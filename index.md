@@ -1,6 +1,4 @@
 
-<html lang="en">
-<!-- Mirrored from apperle.dawoud.org/apperle/index-parallax.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Mar 2020 07:49:39 GMT -->
 <head>
     <!--Meta tags-->
     <meta charset="utf-8">
@@ -1008,4 +1006,3 @@ Game Development is the art of creating games and describes the design, developm
 <script src="js/min/maps-min.js"></script>
 <script src='js/min/main-min.js' type="text/javascript"></script>
 </body>
-</html>
